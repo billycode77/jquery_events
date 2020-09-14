@@ -1,0 +1,19 @@
+body{
+	font-family: 'Roboto', sans-serif;
+	/*background-image: url(img/code-institute.jpg);
+ 	background-size: cover;
+ 	color: #ffffff;*/
+ 	background-color: #eee;
+}
+
+h1{
+	font-size: 3em;
+	text-align: center;
+}
+h2{
+	font-size: 1em;
+	text-align: left;
+}
+p{
+	font-size: .9rem;
+}
